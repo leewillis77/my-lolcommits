@@ -1,3 +1,3 @@
 # My lolcommits
 
-This is an archive of my [https://github.com/mroth/lolcommits](lolcommits)
+This is an archive of my [lolcommits](https://github.com/mroth/lolcommits)
